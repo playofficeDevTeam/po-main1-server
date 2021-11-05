@@ -1,19 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.48d8798d.chunk.css",
-    "main.js": "/static/js/main.d3bda1ce.chunk.js",
-    "main.js.map": "/static/js/main.d3bda1ce.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.aa3eef02.js",
-    "runtime-main.js.map": "/static/js/runtime-main.aa3eef02.js.map",
-    "static/css/2.bbbe21ee.chunk.css": "/static/css/2.bbbe21ee.chunk.css",
-    "static/js/2.e9cfc695.chunk.js": "/static/js/2.e9cfc695.chunk.js",
-    "static/js/2.e9cfc695.chunk.js.map": "/static/js/2.e9cfc695.chunk.js.map",
-    "static/js/3.cdb3de25.chunk.js": "/static/js/3.cdb3de25.chunk.js",
-    "static/js/3.cdb3de25.chunk.js.map": "/static/js/3.cdb3de25.chunk.js.map",
+    "main.css": "/static/css/main.d474df85.chunk.css",
+    "main.js": "/static/js/main.18591f2e.chunk.js",
+    "main.js.map": "/static/js/main.18591f2e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6111f7ac.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6111f7ac.js.map",
+    "static/js/2.588f8a63.chunk.js": "/static/js/2.588f8a63.chunk.js",
+    "static/js/2.588f8a63.chunk.js.map": "/static/js/2.588f8a63.chunk.js.map",
+    "static/js/3.1d8a8fdf.chunk.js": "/static/js/3.1d8a8fdf.chunk.js",
+    "static/js/3.1d8a8fdf.chunk.js.map": "/static/js/3.1d8a8fdf.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/2.bbbe21ee.chunk.css.map": "/static/css/2.bbbe21ee.chunk.css.map",
-    "static/css/main.48d8798d.chunk.css.map": "/static/css/main.48d8798d.chunk.css.map",
-    "static/js/2.e9cfc695.chunk.js.LICENSE.txt": "/static/js/2.e9cfc695.chunk.js.LICENSE.txt",
+    "static/css/main.d474df85.chunk.css.map": "/static/css/main.d474df85.chunk.css.map",
+    "static/js/2.588f8a63.chunk.js.LICENSE.txt": "/static/js/2.588f8a63.chunk.js.LICENSE.txt",
     "static/media/0_1.mp4": "/static/media/0_1.39671775.mp4",
     "static/media/0_1.webm": "/static/media/0_1.3e51093c.webm",
     "static/media/0_2.mp4": "/static/media/0_2.362a8170.mp4",
@@ -222,7 +220,6 @@
     "static/media/pricePlan.webm": "/static/media/pricePlan.d3b41fb8.webm",
     "static/media/pricePlanMo.mp4": "/static/media/pricePlanMo.576e3b9e.mp4",
     "static/media/pricePlanMo.webm": "/static/media/pricePlanMo.9d0a16c3.webm",
-    "static/media/slick-theme.css": "/static/media/slick.c94f7671.ttf",
     "static/media/건강기능식품_mobile.webm": "/static/media/건강기능식품_mobile.b79a3ac6.webm",
     "static/media/건강기능식품_mobile.mp4": "/static/media/건강기능식품_mobile.ef8c841b.mp4",
     "static/media/건강기능식품_pc.webm": "/static/media/건강기능식품_pc.1c77d883.webm",
@@ -245,10 +242,9 @@
     "static/media/최종_비전 메인영상.webm": "/static/media/최종_비전 메인영상.88ae8a01.webm"
   },
   "entrypoints": [
-    "static/js/runtime-main.aa3eef02.js",
-    "static/css/2.bbbe21ee.chunk.css",
-    "static/js/2.e9cfc695.chunk.js",
-    "static/css/main.48d8798d.chunk.css",
-    "static/js/main.d3bda1ce.chunk.js"
+    "static/js/runtime-main.6111f7ac.js",
+    "static/js/2.588f8a63.chunk.js",
+    "static/css/main.d474df85.chunk.css",
+    "static/js/main.18591f2e.chunk.js"
   ]
 }
