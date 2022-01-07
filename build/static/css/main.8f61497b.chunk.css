@@ -1,0 +1,2 @@
+@import url(https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700;900&display=swap);@tailwind base;@tailwind components;@tailwind utilities;html{overflow-y:scroll}body{font-family:"Noto Sans KR",sans-serif}.main{z-index:100000000!important}.ReactModal__Overlay{z-index:1000}button:focus{outline:0}
+/*# sourceMappingURL=main.8f61497b.chunk.css.map */
